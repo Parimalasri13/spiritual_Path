@@ -1,0 +1,27 @@
+2024-06-05T11:41:20.149Z - Server started on port 3001
+2024-06-05T11:41:28.924Z - Request: GET /old-page
+2024-06-05T11:43:04.108Z - Server started on port 3001
+2024-06-05T11:43:27.899Z - Request: GET /old-page
+2024-06-05T11:43:32.836Z - Request: GET /new
+2024-06-05T11:43:32.844Z - 404 Error: GET /new
+2024-06-05T11:43:38.161Z - Request: GET /
+2024-06-05T11:50:41.936Z - Request: GET /
+2024-06-05T11:50:43.232Z - Request: GET /
+2024-06-05T11:53:05.079Z - Server started on port 3001
+2024-06-05T11:53:11.896Z - Request: GET /
+2024-06-05T11:53:13.367Z - Request: GET /
+2024-06-05T11:53:24.201Z - Server started on port 3003
+2024-06-05T11:53:30.547Z - Request: GET /
+2024-06-05T11:53:30.616Z - Request: GET /favicon.ico
+2024-06-05T11:53:30.618Z - 404 Error: GET /favicon.ico
+2024-06-05T11:53:32.423Z - Request: GET /
+2024-06-05T11:53:47.603Z - Server started on port 3003
+2024-06-05T11:53:50.720Z - CORS Error: Not allowed by CORS - Origin: undefined
+2024-06-05T11:53:50.722Z - Error: Not allowed by CORS
+2024-06-05T11:54:02.247Z - Server started on port 3001
+2024-06-05T11:54:07.548Z - Server started on port 3001
+2024-06-05T11:54:15.965Z - Server started on port 3001
+2024-06-05T11:54:26.458Z - Error: Not allowed by CORS
+2024-06-05T11:54:34.006Z - Server started on port 3001
+2024-06-05T11:54:36.439Z - Request: GET /
+2024-06-05T13:43:08.145Z - Server started on port 3001
